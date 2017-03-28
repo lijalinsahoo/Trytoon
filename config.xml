@@ -2,7 +2,7 @@
 <widget id="com.trytoonacademy.trytoon" version="3.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Trytoon</name>
     <description>
-        Official of Trytoon Academy.
+        Official App of Trytoon Academy.
     </description>
     <author email="support@pocketapp.in" href="http://pocketapp.in">
      PocketApp.in
